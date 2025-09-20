@@ -33,6 +33,7 @@ The zip file contains three folders:
 	Images: rec_center1.jpeg, rec_center2.jpeg — Drexel Recreation Center
 	Script: main_rec_center.m — Identical to main.m except for panoramic stitching using hard-coded correspondences (parts 1 and 2 of instructions)
 
+---
 Instructions to run my scripts:
 1. In MATLAB, set the current folder to the appropriate subfolder so that the script can load the images in the same folder (main_run, test_run1, or test_run2).
 
