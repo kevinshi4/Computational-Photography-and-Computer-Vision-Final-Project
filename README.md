@@ -45,3 +45,4 @@ Instructions to run my scripts:
 3. NOTE: Running Additional Tests
 Depending on the additional testing images, it is likely that my code will potentially throw an error for the manual keypoint stitching (parts 1 and 2 of instructions) since my manual stitching is specific to my original image.
 As a result, to run additional tests, I suggest you either comment out or delete lines 18-132 in main.m to only have the code for the automatic stitching pipeline. You should also change filename1 and filename2 at the top of main.m to the path of your images. In my code, filename1 is the base image. 
+
